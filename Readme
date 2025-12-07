@@ -1,1 +1,40 @@
 # Jun Fu – ITDS 2371 Data Visualization Portfolio
+Author: Jun Fu
+
+Welcome to my portfolio for ITDS-2371, this course focused on applied data science, analytics, and practical problem-solving using real datasets with Power BI and Tableau.
+This repository documents my learning progress, key labs, tools, and major projects completed throughout the course.
+
+Skills & Technologies Learned:
+Data collection & cleaning
+Exploratory data analysis (EDA)
+Data visualization & storytelling
+Predictive modeling
+Data reporting & communication
+Ethical considerations in data science
+This repository serves as a structured record of my assignments, projects, and hands-on practice.
+
+Technologies & Tools:
+PowerBI
+Tableau
+
+Featured Projects
+📊 Final Project
+Description of Project
+This project focuses on analyzing global COVID-19 data using Power BI to deliver a
+comprehensive, interactive overview of the pandemic’s development. By examining essential
+parameters—including confirmed cases, deaths, recoveries, and government response indicators,
+the project uncovers key trends across countries and over time. After loading and preparing the
+dataset, a series of important metrics is calculated, such as active case rate, recovery rate,
+mortality rate, infection rate by population, and average Government Response Index.
+The dashboard integrates a variety of visualization types, including bar charts, a doughnut chart,
+and a line-and-clustered column chart, to provide a high-level summary. Additional report pages
+highlight specific perspectives and detailed breakdowns of the global situation such as time-
+series patterns, geographic distributions, and government policy responses.
+By leveraging Power BI’s interactive features, the project allows users to easily navigate the
+data, compare countries, and identify meaningful relationships between case numbers,
+population size, and policy actions. Overall, this project not only summarizes the evolving
+pandemic situation but also offers valuable insights into how COVID-19 spread and how
+different regions responded over time.
+
+Technologies: Power BI, DAX
+👉 Project Link: 
